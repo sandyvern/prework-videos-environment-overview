@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-+ Describe the purpose of the Learn IDE
 + Explain what a development environment is and what it is used for
++ Describe the purpose of the Learn IDE
 + Use the Learn IDE to solve a lab
 
 ## Outline

@@ -8,6 +8,8 @@
 
 ## Lesson
 
+<iframe width="100%" height="720" src="https://www.youtube.com/embed/-5Iz6JnsUzM?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 + Hi guys, it's Ian from Flatiron School. In this video, we're going to learn about development environments. Our Learning Goals for this video are:
 + To explain what a development environment is and what it is used for
 + To describe the purpose of the Learn IDE
@@ -41,4 +43,4 @@
 + So to recap, in this video we discussed what a development environment is and why we use them.
 + We talked about why we built the Learn IDE - to make it faster to get solving lessons and labs on Learn.
 + And we looked at solving a lab using the Learn IDE.
-+ Thanks so much for watching - happy coding! 
++ Thanks so much for watching - happy coding!

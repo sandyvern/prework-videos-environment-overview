@@ -27,7 +27,7 @@
 + These give you helpful things such as syntax highlighting and autocompletion.
 + Once you've edited the code, you need a way to execute it. For an HTML page, this might be as simple as opening it in a web browser. Let me go ahead and open up my text editor, which is Atom, and create a new file called `index.html` - I can quickly add some HTML in here.
 + When I open this in the web browser, I'll see the output from that code.
-+ So that works really for things like HTML, but for other applications, you'll likely need to execute the code from a terminal. For example, when writing a Ruby application, I need some way to be able to execute that ruby code.
++ So that works really well for things like HTML, but for other applications, you'll likely need to execute the code from a terminal. For example, when writing a Ruby application, I need some way to be able to execute that ruby code.
 + We can do this using the Ruby interpreter - this is a tool that runs from the terminal to execute our Ruby code. If I make a new file, let's call this one 'app.rb' and put a simple print statement here, we can now run this code from my Terminal using `ruby FILENAME` - so in this case, `ruby app.rb`
 + We now see the output of that program.
 + So, I'm doing this on my Mac, and one thing to note is that setting up a development environment on your computer can be a little bit of a pain.
